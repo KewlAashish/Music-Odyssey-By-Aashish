@@ -1,0 +1,12 @@
+Phase 1: Launching a music website
+-> Users should be able to see the blogs related to musics
+-> The music blogs related content should be stored inside a database and is fetched from the database all the time
+-> Atleast 5 blogs should be there before the launch  
+-> There should be a home page where users can see all the articles headline and 2-3 line summary and they should be in a veritcal list
+
+Phase 2: Storing Analytics
+-> Which article is trending?
+-> Store the article which is the most opened/clicked 
+-> Add filters related to articles: Most popular, Latest articles
+-> About MusicOdyssey page
+-> Reach out to MusicOdyssey
